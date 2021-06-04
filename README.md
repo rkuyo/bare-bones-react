@@ -1,4 +1,4 @@
-# barebones-react
+# bare-bones-react
 Bare-bones starter for React with TypeScript.
 
 ### Usage
