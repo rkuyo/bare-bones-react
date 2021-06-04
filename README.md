@@ -18,5 +18,4 @@ Bare-bones starter for React with TypeScript.
 - yarn
 
 ### Scripts
-- Build the app: `yarn build`
 - Run the app: `yarn serve`
