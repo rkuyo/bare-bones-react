@@ -1,5 +1,5 @@
 # barebones-react
-Barebones starter for React with TypeScript.
+Bare-bones starter for React with TypeScript.
 
 ### Usage
 1. `git clone https://github.com/snjuro/barebones-react.git <project-directory>`
@@ -13,7 +13,7 @@ Barebones starter for React with TypeScript.
 - React
 - TypeScript
 - Sass
-- Webpack
+- Parcel
 - Babel
 - yarn
 
