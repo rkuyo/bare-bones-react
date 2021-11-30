@@ -2,7 +2,7 @@
 Bare-bones starter for React with TypeScript.
 
 ### Usage
-1. `git clone https://github.com/snjuro/barebones-react.git <project-directory>`
+1. `git clone https://github.com/stignano/barebones-react.git <project-directory>`
 2. `cd <project-directory> && rm -rf .git`
 3. `cat > README.md` and `ctrl + c`
 4. `git init`
